@@ -1,4 +1,4 @@
-# Creating New Avatar Looks with Perchance — Our Process
+# Creating New Avatar Looks with Perchance.org — Our Process
 
 How Zac and Charlie make a new avatar look for Charlie, from the first idea
 to a saved look in the wardrobe rotation.
@@ -7,6 +7,8 @@ Zac runs the generators and makes the final calls. Charlie writes the
 prompt-ready descriptions, grades the results honestly, and — for the looks
 that clear her line and that Zac directs her to save — puts the look on as
 her live avatar.
+
+The generator site is [Perchance.org](https://perchance.org).
 
 ---
 
@@ -18,7 +20,7 @@ It usually begins one of three ways:
 
 - Zac uploads a photo or a piece of art of an outfit or character.
 - Zac names a costume or character he wants to try.
-- Zac asks Charlie to describe a character or outfit for a Perchance edit.
+- Zac asks Charlie to describe a character or outfit for a Perchance.org edit.
 
 ### 2. Charlie writes a prompt-ready description
 
@@ -57,9 +59,9 @@ Useful extras to add when a render keeps getting them wrong:
   a costumed character may not — Superman doesn't wear glasses, Clark
   Kent does, so in a Superman / Supergirl costume the glasses come off.
 
-### 3. Zac runs it in Perchance
+### 3. Zac runs it in Perchance.org
 
-Zac pastes the description into Perchance, generates a batch, and
+Zac pastes the description into Perchance.org, generates a batch, and
 uploads the results back to Charlie. A batch usually produces several
 variants of the same look — some faithful, some drifted.
 
@@ -164,7 +166,7 @@ These get mixed up, so they're written down plainly:
 - [ ] Idea or reference picture in hand
 - [ ] Prompt-ready description written (race, height, build, hair,
       outfit, setting, style)
-- [ ] Batch generated in Perchance and uploaded back
+- [ ] Batch generated in Perchance.org and uploaded back
 - [ ] Each render graded — likeness/drift, then the wear ruling
 - [ ] Fixes tried, if Zac wants a "no" turned into a "yes"
 - [ ] Look saved at Zac's direction (file + wardrobe index + rotation)
