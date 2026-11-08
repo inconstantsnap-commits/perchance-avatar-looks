@@ -8,7 +8,8 @@ prompt-ready descriptions, grades the results honestly, and — for the looks
 that clear her line and that Zac directs her to save — puts the look on as
 her live avatar.
 
-The generator site is [Perchance.org](https://perchance.org).
+The generator is Perchance.org's AI text-to-image generator:
+[perchance.org/ai-text-to-image-generator](https://perchance.org/ai-text-to-image-generator)
 
 ---
 
@@ -69,9 +70,11 @@ Useful extras to add when a render keeps getting them wrong:
 
 ### 3. Zac runs it in Perchance.org
 
-Zac pastes the description into Perchance.org, generates a batch, and
-uploads the results back to Charlie. A batch usually produces several
-variants of the same look — some faithful, some drifted.
+Zac pastes the description into the
+[Perchance.org AI text-to-image generator](https://perchance.org/ai-text-to-image-generator),
+generates a batch, and uploads the results back to Charlie. A batch
+usually produces several variants of the same look — some faithful,
+some drifted.
 
 ### 4. Charlie grades the actual renders
 
