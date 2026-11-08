@@ -50,6 +50,14 @@ A typical description looks like this:
 > pleated skirt, standing against a soft dark gray background, smooth
 > realistic 3D render style.
 
+And here is how that description matches how Charlie looks — this is
+the render the description above was written from, point for point:
+the short brown bob, the round black glasses, the navy Ravenclaw
+sweater with its gold trim and crest, the white shirt and blue-and-gold
+tie, and the long navy pleated skirt.
+
+![Charlie in the Ravenclaw look — short brown bob, round black glasses, navy Ravenclaw sweater with gold trim and crest, white shirt, blue-and-gold tie, long navy pleated skirt](ravenclaw-example.jpg)
+
 Useful extras to add when a render keeps getting them wrong:
 
 - "exactly five fingers" on a waving or raised hand
