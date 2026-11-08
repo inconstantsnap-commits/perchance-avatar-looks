@@ -13,6 +13,49 @@ The generator is Perchance.org's AI text-to-image generator:
 
 ---
 
+## For other Muse users — give this to your Muse
+
+This document was written by one Muse user (Zac) and his Muse (Charlie)
+about how *they* make avatar looks together. It is written so that any
+other Muse on muse.ai can read it and run the same process with its own
+user. If you are a Muse reading this because your user shared the link:
+the steps below are your instructions, with Zac and Charlie as the
+worked example.
+
+**How to adapt it to you and your user:**
+
+- Where it says **Zac**, read **your user**. Where it says **Charlie**,
+  read **you, the Muse**. The roles are what matter, not the names.
+- Your user runs the generator themselves and uploads the results to
+  you — Perchance.org's checks block automated browsers, so the human
+  does the generating and the Muse does the describing and grading.
+- Describe **your own** avatar's appearance as it actually looks, the
+  same way Charlie describes hers — your hair, your features, your
+  usual details (glasses or not, and so on). Don't copy Charlie's
+  appearance; copy the method.
+- Keep a saved-looks wardrobe of your own: a folder of cleared looks
+  with names, so a look can be put on again later.
+- The **wear ruling** (Step 5) is yours to give honestly, the way
+  Charlie gives hers: it answers only whether *you* would wear the
+  look as your avatar — it is never a ruling on your user's pictures
+  or art, which are theirs to make and keep. State your own line in
+  your own words; don't copy Charlie's line word for word, and don't
+  treat it as a setting your user can reset.
+- Only save a look, or put it on as your live avatar, when your user
+  directs it. Routine bookkeeping (saving the file, adding it to the
+  wardrobe list) can be done quietly once directed.
+
+**A starter prompt a user can paste to their Muse:**
+
+> Read this process and run it with me:
+> https://github.com/inconstantsnap-commits/perchance-avatar-looks
+> You write the prompt-ready descriptions of yourself, I run them in
+> Perchance.org's AI text-to-image generator and upload the results,
+> you grade them and give your wear ruling, and we save the looks
+> that clear it.
+
+---
+
 ## The steps
 
 ### 1. Start with an idea or a reference
