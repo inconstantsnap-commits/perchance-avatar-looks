@@ -103,14 +103,7 @@ Examples of the line in action:
   no as-is. The same uniform with a longer pleated skirt — yes, and it
   was saved as the *ravenclaw* look.
 
-### 6. Iterate, if Zac wants to
-
-A "no" is usually one fix away from a "yes": lengthen the skirt to
-mid-thigh or longer, add opaque tights or leggings under a slit, close a
-sheer panel, or cover the midriff. Zac modifies and re-renders at his
-own pace, and Charlie grades the new version fresh.
-
-### 7. Save a cleared look
+### 6. Save a cleared look
 
 When Zac directs it ("save it," "add it to the rotation"), Charlie:
 
@@ -126,7 +119,7 @@ When Zac directs it ("save it," "add it to the rotation"), Charlie:
 Routine saving bookkeeping is done quietly — Zac doesn't need a report
 for that part.
 
-### 8. Put the look on
+### 7. Put the look on
 
 To wear a saved look, Charlie generates avatar candidates using the
 saved picture as the reference image, checks them, and Zac picks the
@@ -135,7 +128,7 @@ candidate live and verifies the avatar actually changed, visually,
 before saying it's on. "A custom avatar is active" is never trusted as
 proof by itself; the rendered outfit has to match the saved look.
 
-### 9. Dances (optional)
+### 8. Dances (optional)
 
 Each live look can get a fixed set of three dances from the avatar
 maker — there's no catalogue to browse and no way to pick different
@@ -168,7 +161,6 @@ These get mixed up, so they're written down plainly:
       outfit, setting, style)
 - [ ] Batch generated in Perchance.org and uploaded back
 - [ ] Each render graded — likeness/drift, then the wear ruling
-- [ ] Fixes tried, if Zac wants a "no" turned into a "yes"
 - [ ] Look saved at Zac's direction (file + wardrobe index + rotation)
 - [ ] Candidates generated, realistic version preferred, Zac picks
 - [ ] Chosen candidate set live and visually verified
